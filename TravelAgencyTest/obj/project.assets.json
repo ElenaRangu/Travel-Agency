@@ -14120,11 +14120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joyco\\OneDrive\\Desktop\\site\\TravelAgencyTest - Copy\\TravelAgencyTest\\TravelAgencyTest.csproj",
+      "projectUniqueName": "C:\\Users\\joyco\\OneDrive\\Documents\\GitHub\\Travel-Agency\\TravelAgencyTest\\TravelAgencyTest.csproj",
       "projectName": "TravelAgencyTest",
-      "projectPath": "C:\\Users\\joyco\\OneDrive\\Desktop\\site\\TravelAgencyTest - Copy\\TravelAgencyTest\\TravelAgencyTest.csproj",
+      "projectPath": "C:\\Users\\joyco\\OneDrive\\Documents\\GitHub\\Travel-Agency\\TravelAgencyTest\\TravelAgencyTest.csproj",
       "packagesPath": "C:\\Users\\joyco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joyco\\OneDrive\\Desktop\\site\\TravelAgencyTest - Copy\\TravelAgencyTest\\obj\\",
+      "outputPath": "C:\\Users\\joyco\\OneDrive\\Documents\\GitHub\\Travel-Agency\\TravelAgencyTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
